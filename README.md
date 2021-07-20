@@ -6,7 +6,7 @@ This material is developed by [Gwamaka Charles Mwamwaja](https://www.linkedin.co
 
 ## Training content
 
-[01 - Introduction to R](https://raw.githack.com/GwamakaCharles/r-training/blob/main/Presentations/01-intro-to-R.html)
+[01 - Introduction to R](https://raw.githack.com/GwamakaCharles/r-training/main/Presentations/01-intro-to-R.html)
 
 - Introduction to RStudio, R syntax, objects and classes. Designed for a 1h30m session.
 
